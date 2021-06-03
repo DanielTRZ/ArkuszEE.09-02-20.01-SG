@@ -1,0 +1,41 @@
+body{
+    font-family:Arial;
+}
+.lewy{
+    background-color: rgb(255,127,80);
+    color: white;
+    width: 50%;
+    height: 410px;
+    float: left;
+}
+.prawy{
+    background-color: rgb(255,127,80);
+    color: white;
+    width: 50%;
+    height: 410px;
+    float: left;
+}
+.banner{
+    background-color: rgb(220,220,220);
+    margin: 20px 20px 20px 20px;
+    text-align: center;   
+}
+.glowny{
+    background-color: rgb(220,220,220);
+    margin: 20px 20px 20px 20px;
+    text-align: center;  
+}
+.slewy{
+    background-color: rgb(255,127,80);
+    color: white;
+    width: 50%;
+    height: 100px;
+}
+tr{
+    border: solid 1px rgb(255,127,80);
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+}
+a{
+    color: white;
+}
