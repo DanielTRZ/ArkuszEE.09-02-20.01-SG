@@ -7,10 +7,9 @@ function licz(){
       wynik.innerHTML="Prosze podać obydwie liczby";   
   }else{
   a =parseInt(a);
-   b =parseInt(b);
+  b =parseInt(b);
     
      // wynik.innerHTML="Potrzebujesz:"+" "+b/a +" "+"litrów palia";
       wynik.innerHTML="Potrzebujesz:"+" "+Math.round(b*a/100)+" "+"litrów palia";
-  }
-    
+  }    
 }
